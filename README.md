@@ -8,6 +8,7 @@ Company | Description
 ------- | -----------
 [Agari](http://agari.com/) | Agari develops data-driven security solutions powering real-time cyberthreat detection and prevention for global companies & their customers.
 [Change.org](https://www.change.org/) | Change.org is the world’s largest petition platform, using technology to empower more than 75 million users to create the change they want to see.
+[InQuicker](https://inquicker.com/) | InQuicker online self-scheduling lets you check-in for estimated treatment times at ERs and Urgent Care Centers or book appointments for healthcare services.
 [Librato](https://www.librato.com/) | Your monitoring infrastructure in the cloud. Store, visualize and alert on all your metrics at all levels of the stack.
 [Lita.io](https://www.lita.io/) | ChatOps for Ruby.
 [PagerDuty](http://www.pagerduty.com/) | PagerDuty provides alerting, on-call scheduling, escalation policies and incident tracking to increase uptime of your apps, servers, websites and databases.
