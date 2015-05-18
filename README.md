@@ -11,3 +11,5 @@ Company | Description
 [Lita.io](https://www.lita.io/) | ChatOps for Ruby.
 [PagerDuty](http://www.pagerduty.com/) | PagerDuty provides alerting, on-call scheduling, escalation policies and incident tracking to increase uptime of your apps, servers, websites and databases.
 [The Artificial](http://theartificial.nl/) | The Artificial is a boutique UX agency.
+[Playpass](https://www.playpass.com/) | Playpass is the fastest, easiest way to create and join rec sports leagues.
+[SharePractice](https://sharepractice.com//) |  Collaborative medical reference used by doctors to rate and review the effectiveness of drugs, herbs and supplements.
