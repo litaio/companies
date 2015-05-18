@@ -12,4 +12,5 @@ Company | Description
 [PagerDuty](http://www.pagerduty.com/) | PagerDuty provides alerting, on-call scheduling, escalation policies and incident tracking to increase uptime of your apps, servers, websites and databases.
 [Playpass](https://www.playpass.com/) | Playpass is the fastest, easiest way to create and join rec sports leagues.
 [SharePractice](https://sharepractice.com//) |  Collaborative medical reference used by doctors to rate and review the effectiveness of drugs, herbs and supplements.
+[Stitch Fix](https://www.stitchfix.com//) |  For the woman on the go, Stitch Fix is the affordable and accessible personal styling service that helps you look and feel your best every day.
 [The Artificial](http://theartificial.nl/) | The Artificial is a boutique UX agency.
